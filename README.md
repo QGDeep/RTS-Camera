@@ -1,6 +1,14 @@
 # RTS-Camera
-A RTS Style Camera inspired by RTS games like Age of Empires, Total War etc. Created in Unreal Engine 5 C++
+A RTS Style Camera inspired by RTS games like Age of Empires, Total War etc.
 
 ## Features: 
-- The camera allows for movement using WASD keys and edgescrolling.
-- Camera also allows for Zoom and rotate functionality
+- WASD Camera Movement
+- Edge Scrollong Camera Movement
+- Camera Zoom
+- Camera Rotation
+
+## Technologies
+- Unreal Engine 5
+- C++
+- Blueprints
+- Camera Manager
